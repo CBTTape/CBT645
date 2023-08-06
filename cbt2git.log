@@ -1,0 +1,6 @@
+2023-08-06 06:13:25.554467 - Initialized conversion of CBT645
+2023-08-06 06:13:25.578763 - Received CBT.V505.FILE645.PDS from FILE645.XMI 
+2023-08-06 06:13:25.580981 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE645.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:13:25.582041 - Found $ILLUST.txt (text/plain) in CBT.V505.FILE645.PDS, moved to PDS/$ILLUST
+2023-08-06 06:13:25.582995 - Found $UPDATES.txt (text/plain) in CBT.V505.FILE645.PDS, moved to PDS/$UPDATES
+2023-08-06 06:13:25.583828 - Found @FILE645.txt (text/plain) in CBT.V505.FILE645.PDS, moved to PDS/@FILE645
